@@ -1,0 +1,1 @@
+Project for Network Security class about "Security Analysis of Quantum Key Distribution: Detecting Eavesdropping in the BB84 Protocol". Simulated implementation of the BB84 Protocol in an Intercept-Resend Attack in Python.
